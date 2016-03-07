@@ -1,2 +1,2 @@
-# QACR
-QACR for iOS
+# QCAR
+QCAR for iOS
